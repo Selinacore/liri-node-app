@@ -8,6 +8,8 @@
 ### To get movie info: run node liri.js movie-this "title of movie"<h3>
 ### To get something a little bit random or surprise data: run node liri.js do-what-it-says<h3>
 
-####Here is a litle video of how it works! <h4>
+#### Here is a litle video of how it works! <h4>
 
-https://drive.google.com/file/d/1HYJeVFs2e2JlfnXX79VSC0FlyWwFd6Aw/view
+https://drive.google.com/open?id=1HYJeVFs2e2JlfnXX79VSC0FlyWwFd6Aw
+
+#### Screenshots too. <h4>
