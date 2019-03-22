@@ -14,6 +14,6 @@ https://drive.google.com/open?id=1HYJeVFs2e2JlfnXX79VSC0FlyWwFd6Aw
 
 #### Screenshots too. <h4>
 ![screenshot concert-this](https://github.com/Selinacore/liri-node-app/blob/master/images/concert-this.png)
-![screenshot spotify-this](https://github.com/Selinacore/liri-node-app/blob/master/images/spotify-this.png)
+![screenshot spotify-this-song](https://github.com/Selinacore/liri-node-app/blob/master/images/spotfy-this.png)
 ![screenshot movie-this](https://github.com/Selinacore/liri-node-app/blob/master/images/movie-this.png)
 ![screenshot do-what-it-says](https://github.com/Selinacore/liri-node-app/blob/master/images/do-what-it-says.png)
